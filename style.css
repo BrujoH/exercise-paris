@@ -1,0 +1,21 @@
+img {
+    height: 300px;
+}
+header {
+    font-family: 'Courgette', cursive;
+}
+.red {
+    color: red;
+}
+body {
+    background-color: #e5f4f9;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover {
+    color: green;
+}
+ul {
+    list-style-type: circle;
+}
